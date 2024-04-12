@@ -1,1 +1,1 @@
-# java
+# java sample codes
